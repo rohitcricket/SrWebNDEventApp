@@ -51,5 +51,7 @@ group :development do
   gem 'simple_form'
   # Devise
   gem 'devise'
+  # Gravatars
+  gem 'gravatarify', '~> 3.0.0'
 end
 
