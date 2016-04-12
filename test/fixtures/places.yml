@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  type: 
+  host: MyString
+  start: 2016-04-11
+  end: 2016-04-11
+  user_id: 1
+  address: MyString
+  description: MyText
+
+two:
+  name: MyString
+  type: 
+  host: MyString
+  start: 2016-04-11
+  end: 2016-04-11
+  user_id: 1
+  address: MyString
+  description: MyText
