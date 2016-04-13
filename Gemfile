@@ -53,5 +53,7 @@ group :development do
   gem 'devise'
   # Gravatars
   gem 'gravatarify', '~> 3.0.0'
+  # Add geolocation
+  gem 'geocoder'
 end
 
